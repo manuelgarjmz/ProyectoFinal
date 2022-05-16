@@ -97,6 +97,7 @@ void listas()
 		cout << "Cita" << i + 1 << endl;
 		cout << nombre[i] << endl;
 		cout << hora[i] << endl;
+		cout << nombret[i] << endl;
 		cout << descripcion[i] << endl;
 		cout << cantidad[i] << endl;
 		cout << preciou[i] << endl;
